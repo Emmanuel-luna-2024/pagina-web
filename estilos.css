@@ -1,0 +1,120 @@
+#cabecera{
+color:Green,blue;
+/*border: solid;*/
+margin-top:10px;
+margin-left:200px
+margin-bottom:0px;
+padding: 20px;
+background-color:#2ECCFA;
+box-shadow: rgb(7,6,11) 5px 5px 25px;
+border-radius:50px;
+background: -webkit-linear-gradient(top,
+#ffffff,#006699);
+/*outline: 2px dashed #000; parte del codigo 
+que nos sirve para hacer lineas puntiadas
+estilo "recortes"outline-offset:15px;*/
+}
+
+
+#cabecera h1{
+color: rgb(166, 10, 228);
+font: bold 25px MiNuevaFuente,verdana,
+font.ttf;
+}
+
+
+
+
+#cuerpo{
+background-color:rgb(126, 51, 196);
+box-shadow: rgb(600,500,1000) 20px 20px 20px;
+background: -webkit-linear-gradient(top,
+#f8fdfd,#006699);
+border-radius:20px;
+/*borde: solid;*/
+margin-top: 75px;
+margin-right:400px;
+margin-left:400px;
+padding-bottom:5px;
+}
+
+#lateral{
+background-color:#484a9c;
+box-shadow: rgb(69, 42, 180) 20px 20px 25px;
+background: -webkit-linear-gradient(top,
+#ffffff,#8b989e);
+border-radius: 25px;
+/*border:solid;*/
+margin-top:-460px;
+margin-left:1000px;
+margin-right:35px;
+padding-bottom:10px;
+}
+
+#lateral2{
+background-color:#728d96;
+box-shadow: rgb(76, 44, 207) 20px 20px 25px;
+background: -webkit-linear-gradient(top,
+#ffffff,#6e7b81);
+border-radius: 25px;
+/*border:solid;*/
+margin-top:75px;
+margin-left:1000px;
+margin-right:35px;
+padding-bottom:10px;
+}
+
+#lateral3{
+background-color:#485a5f;
+box-shadow: rgb(112, 37, 231) 20px 20px 25px;
+background: -webkit-linear-gradient(top,
+#f0ecec,#7e929c);
+border-radius: 20px;
+/*border:solid;*/
+margin-top:-500px;
+margin-left:20px;
+margin-right:1000px;
+padding-bottom:10px;
+}
+
+#lateral4{
+background-color:#34616e;
+box-shadow: rgb(67, 36, 206) 20px 20px 25px;
+background: -webkit-linear-gradient(top,
+#ffffff,#6a7f8a);
+border-radius: 20px;
+/*border:solid;*/
+margin-top: 75px;
+margin-left: 20px;
+margin-right:1000px;
+padding-bottom:10px;
+}
+
+#lateral5{
+    background-color:rgb(126, 51, 196);
+box-shadow: rgb(600,500,1000) 20px 20px 20px;
+background: -webkit-linear-gradient(top,
+#0abebe,#006699);
+border-radius:20px;
+/*borde: solid;*/
+margin-top: 75px;
+margin-right:400px;
+margin-left:400px;
+padding-bottom:10000px;
+}
+
+pie{
+background-color: #4e0c99;
+box-shadow: rgb(77, 48, 194) 20px 20px 25px;
+background: -webkit-linear-gradient(top,
+#e03333,#006699);
+border-radius:30px;
+margin-top: 60px;
+margin-left: 200px;
+margin-right: 200px;
+padding-bottom: 10px;
+}
+
+#fondo{
+background-color:#410a33;
+}
